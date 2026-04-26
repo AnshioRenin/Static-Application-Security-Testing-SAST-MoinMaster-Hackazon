@@ -340,4 +340,4 @@ Use **both tools together**:
 **Anshio Renin Micheal Antony Xavier Soosammal**  
 MSc Cybersecurity | Dublin Business School  
 Student No: 20036753  
-🔗 [LinkedIn](www.linkedin.com/in/anshio-renin-ms) | CC ISC2 Certified | Open to Work in Ireland
+🔗 [LinkedIn](https://linkedin.com/in/anshio-renin-ms) | CC ISC2 Certified | Open to Work in Ireland
