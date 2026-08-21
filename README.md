@@ -100,7 +100,7 @@ expected outcome rather than a discovery.
 
 ## Screenshots
 
-Selected screenshots captured during the assessment. The full walkthrough with every screenshot is in the report under .
+Selected screenshots captured during the assessment. The full walkthrough with every screenshot is in the report under `docs/`.
 
 ![Screenshot 1](screenshots/screenshot-01.png)
 
@@ -110,7 +110,8 @@ Selected screenshots captured during the assessment. The full walkthrough with e
 
 ![Screenshot 4](screenshots/screenshot-04.png)
 
-*The remaining 4 screenshots are in the  folder.*
+*The remaining 4 screenshots are in the `screenshots/` folder.*
+
 
 ---
 
